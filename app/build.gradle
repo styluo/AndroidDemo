@@ -115,6 +115,7 @@ dependencies {
     implementation(name: 'gtouch-1.0.0', ext:'aar')
     implementation(name: 'gpush-core-1.0.0', ext:'aar')
     implementation(name: 'gmonitor-1.0.0', ext:'aar')
+    implementation(name: 'gtouch-banner-1.1.1.', ext:'aar')
 //    implementation 'com.growingio.android.gpush:gpush-huawei-adapter:1.0.0'
 //    implementation 'com.growingio.android.gpush:gpush-meizu-adapter:1.0.0'
 //    implementation 'com.growingio.android.gpush:gpush-xiaomi-adapter:1.0.0'
